@@ -1,4 +1,4 @@
-# Desafio de Regressão Linear Múltipla
+# Desafio de Regressão Polinomial
 
 ## Objetivo
 
